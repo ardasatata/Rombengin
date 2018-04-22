@@ -1,5 +1,8 @@
 # Laravel PHP Framework
 
+![alt text](
+https://hkzmpg.ch.files.1drv.com/y4m8uA54EJWB9yVjU_iEQwFrcwOzmN0GWpae_L7EYxXciGCx0EytNqDy7JUwKOay4_hhM4K4nsrY3NXLLY2dv64hwJP3_kclepNDfojrDhBVRRPMF7dDK6ULc-WJdIqeC08bds9TtdyfLU5rJcNdCZfFaDev6Zs2Bg4dr1tnF2fZZt5v1zk7RfJRBbJZHRq4eVK5hsRQuJszeyWi5bJlER7kg?width=660&height=413&cropmode=none)
+
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
